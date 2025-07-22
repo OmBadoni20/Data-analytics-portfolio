@@ -1,0 +1,67 @@
+Welcome to the Movie Ticket Booking System
+Enter your name: Om
+
+Available Movies:
+1. Inception
+   Showtimes: [10:00 AM, 1:00 PM, 5:00 PM]
+   Ticket Price: Rs. 200.0
+
+2. The Dark Knight
+   Showtimes: [11:00 AM, 3:00 PM, 7:00 PM]
+   Ticket Price: Rs. 180.0
+
+3. Interstellar
+   Showtimes: [9:00 AM, 12:00 PM, 6:00 PM]
+   Ticket Price: Rs. 220.0
+
+Select a movie (enter number): 2
+Available showtimes: [11:00 AM, 3:00 PM, 7:00 PM]
+Enter desired showtime (e.g. 1:00 PM): 11:00 AM
+Available Seats (50): [A1, A2, A3, A4, A5, A6, A7, A8, A9, A10, B1, B2, B3, B4, B5, B6, B7, B8, B9, B10, C1, C2, C3, C4, C5, C6, C7, C8, C9, C10, D1, D2, D3, D4, D5, D6, D7, D8, D9, D10, E1, E2, E3, E4, E5, E6, E7, E8, E9, E10]
+Enter number of seats to book: 1
+Enter seat 1 (e.g., A1): A1
+
+=================================
+           MOVIE TICKET
+=================================
+Customer Name : Om
+Movie         : The Dark Knight
+Showtime      : 11:00 AM
+Tickets       : 1
+Selected Seats: [A1]
+Price per Ticket: Rs. 180.0
+---------------------------------
+Base Amount   : Rs. 180.00
+GST (5%)      : Rs. 9.00
+CST (5%)      : Rs. 9.00
+---------------------------------
+Total Amount  : Rs. 198.00
+=================================
+  Enjoy your movie!
+
+Do you want to book another ticket? (yes/no): no
+
+Would you like to view all your bookings? (yes/no): yes
+
+=== All Bookings ===
+
+=================================
+           MOVIE TICKET
+=================================
+Customer Name : Om
+Movie         : The Dark Knight
+Showtime      : 11:00 AM
+Tickets       : 1
+Selected Seats: [A1]
+Price per Ticket: Rs. 180.0
+---------------------------------
+Base Amount   : Rs. 180.00
+GST (5%)      : Rs. 9.00
+CST (5%)      : Rs. 9.00
+---------------------------------
+Total Amount  : Rs. 198.00
+=================================
+  Enjoy your movie!
+Would you like to cancel a booking? (yes/no): no
+
+Thank you for using the Movie Ticket Booking System!
