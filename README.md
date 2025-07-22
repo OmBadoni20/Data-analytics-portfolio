@@ -24,15 +24,6 @@ A collection of personal projects demonstrating skills in data science, data vis
 [📂 View Project Folder](./coffee-shop-sales-analysis)  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OmBadoni20/data-analytics-portfolio/blob/main/coffee-shop-sales-analysis/coffee_sales_analysis.ipynb)
 
----
-
-### 🎬 3. Movie Ticket Booking System (Java)
-- Console-based application applying OOP concepts: encapsulation, modularity, collections.
-- Features: Seat booking, cancellation, price calculation with tax logic.
-
-[📂 View Project Folder](./movie-ticket-booking-java)
-
----
 
 ## 📫 Contact
 
