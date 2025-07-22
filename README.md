@@ -1,33 +1,60 @@
-# Data Analytics & Software Projects Portfolio
+# 📊 Data Analytics & Programming Portfolio
 
-A collection of personal projects demonstrating skills in data science, data visualization, and object-oriented programming.
+A collection of projects demonstrating practical skills in **data science**, **data visualization**, and **object-oriented programming** using tools like **Python**, **Pandas**, **Colab**, and **Java**.
+
+---
 
 ## 🔍 Projects
 
+### 1. 📈 Data Science Salary Analysis
+
+- **Goal:** Analyze global salary trends for data science roles.
+- **Tools:** Python, Pandas, Seaborn
+- **Key Output:** Identified disparities by experience level, company size, and remote status using statistical plots.
+- **Notebook:** [Open in Colab](https://colab.research.google.com/github/OmBadoni20/Data-analytics-portfolio/blob/main/data-science-salary-analysis/salary_analysis.ipynb)
+
+📁 [View Project Folder](./data-science-salary-analysis)
+
 ---
 
-### 📊 1. Data Science Salary Analysis
-- Analyzed global salary trends in data science roles based on experience level, company size, and remote work.
-- Tools: Python, pandas, seaborn
-- Key Outcome: Identified disparities and patterns using statistical visualizations.
+### 2. ☕ Coffee Shop Sales Analysis
 
-[📂 View Project Folder](./data-science-salary-analysis)  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OmBadoni20/data-analytics-portfolio/blob/main/data-science-salary-analysis/salary_analysis.ipynb)
+- **Goal:** Analyze 149K+ transactions across 3 branches to find peak hours, top products, and trends.
+- **Tools:** Python, Pandas, Matplotlib, Seaborn
+- **Model:** Built a regression model (R² ≈ 0.61) to forecast sales.
+- **Notebook:** [Open in Colab](https://colab.research.google.com/github/OmBadoni20/Data-analytics-portfolio/blob/main/coffee-shop-sales-analysis/coffee_sales_analysis.ipynb)
+
+📁 [View Project Folder](./coffee-shop-sales-analysis)
 
 ---
 
-### ☕ 2. Coffee Shop Sales Analysis
-- Analyzed 149K+ transactions across 3 branches to discover peak hours, top products, and revenue trends.
-- Tools: Python, pandas, matplotlib, seaborn
-- Model: Built a regression model (R² = 0.61) to forecast future sales.
+### 3. 🎬 Movie Ticket Booking System (Java)
 
-[📂 View Project Folder](./coffee-shop-sales-analysis)  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OmBadoni20/data-analytics-portfolio/blob/main/coffee-shop-sales-analysis/coffee_sales_analysis.ipynb)
+- **Goal:** Console-based ticket booking system simulating real-world seat booking.
+- **Concepts:** OOP (Encapsulation, Classes, Collections), Seat Map, Tax Calculation
+- **Features:**
+  - Movie and showtime selection
+  - Seat selection and booking
+  - Ticket cancellation
+  - Price + GST/CST calculation
+- **Preview:** [Sample Output (Terminal)](./movie-ticket-booking-java/sample_output.txt)
 
+📁 [View Java Code Folder](./movie-ticket-booking-java)
 
-## 📫 Contact
+---
+
+## 📂 Datasets Used
+
+| Project | Dataset File |
+|--------|---------------|
+| Data Science Salaries | [salaries.csv](./data-science-salary-analysis/salaries.csv) |
+| Coffee Shop Sales | [coffee_sales.csv](./coffee-shop-sales-analysis/coffee_sales.csv) |
+
+---
+
+## 📧 Contact
 
 **Om Badoni**  
-📧 om.badoni2005@gmail.com  
+📩 ombadoni2005@gmail.com  
 🌐 [GitHub Profile](https://github.com/OmBadoni20)
 
